@@ -1,0 +1,3 @@
+CREATE FUNCTION increment
+AS INT
+INCREMENT(1, 1)
