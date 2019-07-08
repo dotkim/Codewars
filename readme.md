@@ -53,6 +53,7 @@ I do not mean to discredit anyone of the creators of these katas, below you shou
 - [SQL Bug Fixing - Fix the QUERY - Totaling](https://www.codewars.com/kata/582cba7d3be8ce3a8300007c)
 - [SQL Grasshopper - Select Columns](https://www.codewars.com/kata/582365c18917435ab3000020)
 - [Student's Final Grade](https://www.codewars.com/kata/5ad0d8356165e63c140014d4)
+- [Sum of Digits / Digital Root](https://www.codewars.com/kata/541c8630095125aba6000c00)
 - [Sum of positive](https://www.codewars.com/kata/5715eaedb436cf5606000381)
 - [Surface Area and Volume of a Box](https://www.codewars.com/kata/565f5825379664a26b00007c)
 - [Third Angle of a Triangle](https://www.codewars.com/kata/5a023c426975981341000014)
